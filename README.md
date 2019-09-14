@@ -1,5 +1,4 @@
 # Logging-System
-# Logging System
 ## installation
 After downloading the [ZIP archive] you first have to create the necessary database table. You can import SQL  file `database.sql` or, alternatively, execute the following SQL commands in e.g. phpMyAdmin from:
 ```sql
