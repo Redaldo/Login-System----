@@ -14,7 +14,7 @@
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 
-CREATE TABLE `securitytokens` (
+   CREATE TABLE `securitytokens` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
   `user_id` int(10) NOT NULL,
   `identifier` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
