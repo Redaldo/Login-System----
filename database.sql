@@ -1,5 +1,4 @@
---
---
+
 
    CREATE TABLE IF NOT EXISTS `users` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
