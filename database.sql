@@ -1,7 +1,6 @@
 
 
-   CREATE TABLE IF NOT EXfffISTS `users` (
-  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+gned NOT NULL AUTO_INCREMENT,
   `email` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
   `passwort` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
   `vorname` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
